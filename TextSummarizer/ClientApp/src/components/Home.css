@@ -1,0 +1,25 @@
+﻿.summary-fields {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px
+}
+
+.summarize {
+    display: flex;
+    justify-content: center;
+}
+
+#user-text, #summary-text {
+    height: 100%;
+}
+
+.control-buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#copy {
+    margin-right: 10px;
+}
